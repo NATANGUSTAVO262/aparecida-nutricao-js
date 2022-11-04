@@ -7,6 +7,10 @@
 		<link rel="stylesheet" type="text/css" href="css/reset.css">
 		<link rel="stylesheet" type="text/css" href="css/index.css">
 
+		<script>
+				alert("Olá Mundo");
+				</script>
+
 	</head>
 	<body>
 
